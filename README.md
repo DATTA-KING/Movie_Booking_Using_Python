@@ -25,7 +25,7 @@ This beginner-friendly project demonstrates how to create a functional ticket bo
 
 ## 🖥️ Screenshots
 
-> ![img alt]()
+> ![img alt](https://github.com/DATTA-KING/Movie_Booking_Using_Python/blob/28f88ed6264b23ec8f1b639ccf9293091fae28aa/Outout%20Img/Screenshot%201.png)
 > ![img alt]()
 > ![img alt]()
 
